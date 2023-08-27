@@ -163,6 +163,14 @@
       <WrapperTool>tlbimp</WrapperTool>
       <Isolated>false</Isolated>
     </COMReference>
+    <COMReference Include="Microsoft.Office.Excel.1.9.dll">
+      <Guid>00020813-0000-0000-c000-000000000046</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>false</Isolated>
+    </COMReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm.resx">
